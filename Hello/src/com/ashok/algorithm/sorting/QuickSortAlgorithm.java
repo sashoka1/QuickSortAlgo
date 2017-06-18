@@ -12,7 +12,7 @@ public class QuickSortAlgorithm {
 	
 	public static void main(String[] args) {
 		
-		int arr[]={7,23,99,5,62,4,2,0,9};
+		int arr[]={7,23,99,5,92,4,2,0,9};
 		
 		int start=0;
 		int end=arr.length-1;
