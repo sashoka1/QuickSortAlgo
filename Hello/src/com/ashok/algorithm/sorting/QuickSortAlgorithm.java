@@ -18,6 +18,7 @@ public class QuickSortAlgorithm {
 		int end=arr.length-1;
 		quickSort(arr,start,end);
 		printArray(arr);
+		System.out.println("Test 1");
 	}
 
 	private static void printArray(int[] arr) {
